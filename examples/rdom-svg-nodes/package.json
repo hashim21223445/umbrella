@@ -13,12 +13,12 @@
 	},
 	"dependencies": {
 		"@thi.ng/atom": "workspace:^",
-		"@thi.ng/equiv": "workspace:^",
-		"@thi.ng/hiccup-svg": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/equiv": "0.0.1",
+		"@thi.ng/hiccup-svg": "0.1.0",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/vectors": "workspace:^"
+		"@thi.ng/vectors": "0.0.1"
 	},
 	"browser": {
 		"process": false,
