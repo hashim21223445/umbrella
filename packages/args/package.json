@@ -39,9 +39,9 @@
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/logger": "^3.0.17",
+		"@thi.ng/logger": "^0.1.0",
 		"@thi.ng/strings": "^3.8.1",
-		"@thi.ng/text-format": "^2.2.10"
+		"@thi.ng/text-format": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
