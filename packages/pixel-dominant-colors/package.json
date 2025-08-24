@@ -36,9 +36,9 @@
 		"tool:tangle": "../../node_modules/.bin/tangle src/**/*.ts"
 	},
 	"dependencies": {
-		"@thi.ng/api": "^8.11.7",
+		"@thi.ng/api": "^1.0.0",
 		"@thi.ng/k-means": "^0.7.0",
-		"@thi.ng/pixel": "^7.2.1"
+		"@thi.ng/pixel": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
