@@ -20,8 +20,8 @@
 		"@thi.ng/dl-asset": "workspace:^",
 		"@thi.ng/fibers": "workspace:^",
 		"@thi.ng/math": "workspace:^",
-		"@thi.ng/matrices": "workspace:^",
-		"@thi.ng/pixel": "workspace:^",
+		"@thi.ng/matrices": "0.1.0",
+		"@thi.ng/pixel": "0.1.0",
 		"@thi.ng/random": "workspace:^"
 	},
 	"browser": {
