@@ -20,8 +20,8 @@
 		"@thi.ng/color": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/random": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
