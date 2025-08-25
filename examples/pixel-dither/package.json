@@ -18,7 +18,7 @@
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/pixel-dither": "workspace:^"
+		"@thi.ng/pixel-dither": "0.1.0"
 	},
 	"browser": {
 		"process": false,
