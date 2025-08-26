@@ -12,8 +12,8 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/api": "workspace:^",
-		"@thi.ng/hdom": "workspace:^",
+		"@thi.ng/api": "1.0.0",
+		"@thi.ng/hdom": "2.0.0",
 		"@thi.ng/paths": "workspace:^"
 	},
 	"browser": {
