@@ -21,11 +21,11 @@
 		"@thi.ng/checks": "workspace:^",
 		"@thi.ng/compare": "workspace:^",
 		"@thi.ng/defmulti": "workspace:^",
-		"@thi.ng/errors": "workspace:^",
+		"@thi.ng/errors": "0.0.1",
 		"@thi.ng/hiccup-html": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/sexpr": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rstream": "0.1.0",
+		"@thi.ng/sexpr": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
