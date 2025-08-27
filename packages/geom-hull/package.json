@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/math": "^5.11.5",
-		"@thi.ng/vectors": "^7.11.6"
+		"@thi.ng/vectors": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
