@@ -13,12 +13,12 @@
 	},
 	"dependencies": {
 		"@thi.ng/bench": "workspace:^",
-		"@thi.ng/geom-accel": "workspace:^",
-		"@thi.ng/hdom-canvas": "workspace:^",
+		"@thi.ng/geom-accel": "0.0.1",
+		"@thi.ng/hdom-canvas": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/rstream-gestures": "workspace:^",
+		"@thi.ng/rstream-gestures": "0.0.1",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-hdom": "workspace:^",
+		"@thi.ng/transducers-hdom": "0.1.0",
 		"@thi.ng/vectors": "workspace:^"
 	},
 	"browser": {
