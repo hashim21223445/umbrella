@@ -15,7 +15,7 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^5.4.12"
 	},
@@ -23,7 +23,7 @@
 		"@thi.ng/canvas": "workspace:^",
 		"@thi.ng/color": "workspace:^",
 		"@thi.ng/fibers": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/hiccup-canvas": "workspace:^",
 		"@thi.ng/transducers": "workspace:^"
 	},
