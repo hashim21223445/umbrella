@@ -17,17 +17,17 @@
 		"@thi.ng/checks": "workspace:^",
 		"@thi.ng/defmulti": "workspace:^",
 		"@thi.ng/errors": "workspace:^",
-		"@thi.ng/expose": "workspace:^",
-		"@thi.ng/hdom": "workspace:^",
+		"@thi.ng/expose": "0.1.0",
+		"@thi.ng/hdom": "2.0.0",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/memoize": "workspace:^",
 		"@thi.ng/paths": "workspace:^",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/rstream-graph": "workspace:^",
-		"@thi.ng/sexpr": "workspace:^",
+		"@thi.ng/rstream-graph": "0.0.1",
+		"@thi.ng/sexpr": "0.1.0",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-hdom": "workspace:^"
+		"@thi.ng/transducers-hdom": "0.1.0"
 	},
 	"browser": {
 		"process": false,
