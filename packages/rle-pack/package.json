@@ -36,8 +36,8 @@
 		"tool:tangle": "../../node_modules/.bin/tangle src/**/*.ts"
 	},
 	"dependencies": {
-		"@thi.ng/bitstream": "^2.2.66",
-		"@thi.ng/errors": "^2.5.13"
+		"@thi.ng/bitstream": "^0.3.1",
+		"@thi.ng/errors": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
