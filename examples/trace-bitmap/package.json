@@ -28,7 +28,7 @@
 		"@thi.ng/dl-asset": "workspace:^",
 		"@thi.ng/expose": "workspace:^",
 		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/geom-axidraw": "workspace:^",
+		"@thi.ng/geom-axidraw": "0.4.0",
 		"@thi.ng/geom-trace-bitmap": "workspace:^",
 		"@thi.ng/grid-iterators": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
