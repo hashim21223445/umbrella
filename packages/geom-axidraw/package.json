@@ -38,7 +38,7 @@
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/arrays": "^2.9.13",
-		"@thi.ng/axidraw": "^1.1.87",
+		"@thi.ng/axidraw": "^1.1.27",
 		"@thi.ng/compare": "^2.3.10",
 		"@thi.ng/defmulti": "^3.0.45",
 		"@thi.ng/geom": "^8.0.6",
