@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/hex": "^2.3.51",
-		"@thi.ng/random": "^4.0.1"
+		"@thi.ng/random": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
