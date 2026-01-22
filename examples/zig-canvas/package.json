@@ -25,7 +25,7 @@
 		"@thi.ng/logger": "workspace:^",
 		"@thi.ng/random": "workspace:^",
 		"@thi.ng/wasm-api": "workspace:^",
-		"@thi.ng/wasm-api-dom": "workspace:^"
+		"@thi.ng/wasm-api-dom": "0.1.0"
 	},
 	"browser": {
 		"process": false
