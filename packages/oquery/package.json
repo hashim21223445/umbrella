@@ -40,7 +40,7 @@
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/compare": "^2.3.10",
 		"@thi.ng/defmulti": "^3.0.45",
-		"@thi.ng/equiv": "^2.1.63"
+		"@thi.ng/equiv": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
