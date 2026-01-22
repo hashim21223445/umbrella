@@ -15,7 +15,7 @@
 		"@thi.ng/hdom": "workspace:^",
 		"@thi.ng/hdom-components": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-binary": "workspace:^"
+		"@thi.ng/transducers-binary": "0.1.0"
 	},
 	"browser": {
 		"process": false,
