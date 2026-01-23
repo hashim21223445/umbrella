@@ -13,11 +13,11 @@
 	},
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
-		"@thi.ng/atom": "workspace:^",
+		"@thi.ng/atom": "0.1.0",
 		"@thi.ng/checks": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/interceptors": "workspace:^",
-		"@thi.ng/router": "workspace:^"
+		"@thi.ng/interceptors": "1.0.0",
+		"@thi.ng/router": "0.1.0"
 	},
 	"browser": {
 		"process": false,
