@@ -41,7 +41,7 @@
 		"@thi.ng/base-n": "^2.7.19",
 		"@thi.ng/errors": "^2.5.13",
 		"@thi.ng/random": "^4.0.1",
-		"@thi.ng/strings": "^3.8.1"
+		"@thi.ng/strings": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
