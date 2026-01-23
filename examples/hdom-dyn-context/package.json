@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/atom": "workspace:^",
-		"@thi.ng/hdom": "workspace:^"
+		"@thi.ng/hdom": "2.0.0"
 	},
 	"browser": {
 		"process": false,
