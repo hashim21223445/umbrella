@@ -12,8 +12,8 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/poisson": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/poisson": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
