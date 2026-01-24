@@ -14,9 +14,9 @@
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hdom-components": "workspace:^",
+		"@thi.ng/hdom-components": "1.0.0",
 		"@thi.ng/hex": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
