@@ -16,7 +16,7 @@
 		"@thi.ng/pixel": "workspace:^",
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/shader-ast-stdlib": "workspace:^",
-		"@thi.ng/webgl": "workspace:^"
+		"@thi.ng/webgl": "0.1.0"
 	},
 	"browser": {
 		"process": false,
