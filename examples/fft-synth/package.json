@@ -16,15 +16,15 @@
 		"@thi.ng/atom": "workspace:^",
 		"@thi.ng/dsp": "workspace:^",
 		"@thi.ng/hdom-canvas": "workspace:^",
-		"@thi.ng/imgui": "workspace:^",
+		"@thi.ng/imgui": "0.1.0",
 		"@thi.ng/layout": "workspace:^",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/random": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/rstream-gestures": "workspace:^",
+		"@thi.ng/rstream": "0.1.0",
+		"@thi.ng/rstream-gestures": "0.0.1",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-hdom": "workspace:^"
+		"@thi.ng/transducers-hdom": "0.1.0"
 	},
 	"browser": {
 		"process": false,
