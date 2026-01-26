@@ -21,7 +21,7 @@
 		"@thi.ng/dsp": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
 		"@thi.ng/rasterize": "workspace:^",
-		"@thi.ng/vectors": "workspace:^"
+		"@thi.ng/vectors": "0.0.1"
 	},
 	"browser": {
 		"process": false
