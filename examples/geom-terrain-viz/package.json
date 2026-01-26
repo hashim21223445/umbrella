@@ -21,8 +21,8 @@
 		"@thi.ng/geom": "workspace:^",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/pixel-convolve": "workspace:^",
-		"@thi.ng/rdom-canvas": "workspace:^",
+		"@thi.ng/pixel-convolve": "0.1.0",
+		"@thi.ng/rdom-canvas": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
