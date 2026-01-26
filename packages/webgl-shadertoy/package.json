@@ -39,7 +39,7 @@
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/shader-ast": "^0.15.23",
 		"@thi.ng/shader-ast-glsl": "^0.4.131",
-		"@thi.ng/webgl": "^6.9.9"
+		"@thi.ng/webgl": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
