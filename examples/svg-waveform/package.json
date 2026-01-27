@@ -17,8 +17,8 @@
 		"@thi.ng/checks": "workspace:^",
 		"@thi.ng/expose": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hiccup-svg": "workspace:^",
-		"@thi.ng/interceptors": "workspace:^",
+		"@thi.ng/hiccup-svg": "0.1.0",
+		"@thi.ng/interceptors": "1.0.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
