@@ -25,8 +25,8 @@
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/pointfree": "workspace:^",
 		"@thi.ng/pointfree-lang": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rdom-canvas": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rdom-canvas": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^"
