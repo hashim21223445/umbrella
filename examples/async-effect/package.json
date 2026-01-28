@@ -14,7 +14,7 @@
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/interceptors": "workspace:^"
+		"@thi.ng/interceptors": "1.0.0"
 	},
 	"browser": {
 		"process": false,
