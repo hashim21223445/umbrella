@@ -44,7 +44,7 @@
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/errors": "^2.5.13",
 		"@thi.ng/math": "^5.11.5",
-		"@thi.ng/porter-duff": "^2.1.85"
+		"@thi.ng/porter-duff": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
