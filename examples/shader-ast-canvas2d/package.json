@@ -15,7 +15,7 @@
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/shader-ast-glsl": "workspace:^",
 		"@thi.ng/shader-ast-js": "workspace:^",
-		"@thi.ng/shader-ast-stdlib": "workspace:^"
+		"@thi.ng/shader-ast-stdlib": "0.1.0"
 	},
 	"browser": {
 		"process": false,
