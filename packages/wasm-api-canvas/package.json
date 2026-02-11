@@ -39,7 +39,7 @@
 	"dependencies": {
 		"@thi.ng/binary": "^3.4.30",
 		"@thi.ng/wasm-api": "^1.6.6",
-		"@thi.ng/wasm-api-dom": "^0.11.102"
+		"@thi.ng/wasm-api-dom": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
