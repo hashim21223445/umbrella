@@ -12,9 +12,9 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/canvas": "workspace:^",
+		"@thi.ng/canvas": "0.1.0",
 		"@thi.ng/color": "workspace:^",
-		"@thi.ng/grid-iterators": "workspace:^",
+		"@thi.ng/grid-iterators": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
