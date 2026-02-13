@@ -17,14 +17,14 @@
 	},
 	"dependencies": {
 		"@thi.ng/arrays": "workspace:^",
-		"@thi.ng/checks": "workspace:^",
+		"@thi.ng/checks": "1.0.0",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/object-utils": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-fsm": "workspace:^"
+		"@thi.ng/transducers-fsm": "0.0.1"
 	},
 	"browser": {
 		"process": false
