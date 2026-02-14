@@ -38,8 +38,8 @@
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/checks": "^3.6.9",
-		"@thi.ng/compose": "^3.0.10",
-		"@thi.ng/equiv": "^2.1.63",
+		"@thi.ng/compose": "^0.1.0",
+		"@thi.ng/equiv": "^0.0.1",
 		"@thi.ng/errors": "^2.5.13"
 	},
 	"devDependencies": {
