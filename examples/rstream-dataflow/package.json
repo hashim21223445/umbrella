@@ -12,14 +12,14 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/atom": "workspace:^",
-		"@thi.ng/equiv": "workspace:^",
+		"@thi.ng/atom": "0.1.0",
+		"@thi.ng/equiv": "0.0.1",
 		"@thi.ng/hdom": "workspace:^",
 		"@thi.ng/paths": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/rstream-dot": "workspace:^",
 		"@thi.ng/rstream-gestures": "workspace:^",
-		"@thi.ng/rstream-graph": "workspace:^",
+		"@thi.ng/rstream-graph": "0.0.1",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
