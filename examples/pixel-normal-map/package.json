@@ -18,7 +18,7 @@
 	"dependencies": {
 		"@thi.ng/canvas": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/pixel-convolve": "workspace:^"
+		"@thi.ng/pixel-convolve": "0.1.0"
 	},
 	"browser": {
 		"process": false
