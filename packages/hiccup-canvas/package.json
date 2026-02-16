@@ -38,10 +38,10 @@
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/checks": "^3.6.9",
-		"@thi.ng/color": "^5.6.52",
-		"@thi.ng/geom-arc": "^2.1.139",
+		"@thi.ng/color": "^0.1.0",
+		"@thi.ng/geom-arc": "^0.1.0",
 		"@thi.ng/math": "^5.11.5",
-		"@thi.ng/pixel": "^7.2.1",
+		"@thi.ng/pixel": "^0.1.0",
 		"@thi.ng/vectors": "^7.11.6"
 	},
 	"devDependencies": {
