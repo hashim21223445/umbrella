@@ -12,10 +12,10 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/hdom": "workspace:^",
+		"@thi.ng/hdom": "2.0.0",
 		"@thi.ng/random": "workspace:^",
 		"@thi.ng/strings": "workspace:^",
-		"@thi.ng/transducers": "workspace:^"
+		"@thi.ng/transducers": "0.1.0"
 	},
 	"browser": {
 		"process": false,
