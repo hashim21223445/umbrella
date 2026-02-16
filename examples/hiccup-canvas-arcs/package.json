@@ -17,13 +17,13 @@
 	"dependencies": {
 		"@thi.ng/canvas": "workspace:^",
 		"@thi.ng/color": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/hiccup-canvas": "workspace:^",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/random": "workspace:^",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/vectors": "workspace:^"
+		"@thi.ng/vectors": "0.0.1"
 	},
 	"browser": {
 		"process": false,
@@ -38,7 +38,7 @@
 		"screenshot": "examples/hiccup-canvas-arcs.jpg"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^5.4.12"
 	}
