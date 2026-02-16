@@ -21,7 +21,7 @@
 		"@thi.ng/shader-ast-stdlib": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/webgl": "workspace:^",
-		"@thi.ng/webgl-shadertoy": "workspace:^"
+		"@thi.ng/webgl-shadertoy": "0.1.0"
 	},
 	"browser": {
 		"process": false
