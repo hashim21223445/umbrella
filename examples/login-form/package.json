@@ -14,8 +14,8 @@
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
 		"@thi.ng/atom": "workspace:^",
-		"@thi.ng/expose": "workspace:^",
-		"@thi.ng/hdom": "workspace:^",
+		"@thi.ng/expose": "0.1.0",
+		"@thi.ng/hdom": "2.0.0",
 		"@thi.ng/strings": "workspace:^"
 	},
 	"browser": {
