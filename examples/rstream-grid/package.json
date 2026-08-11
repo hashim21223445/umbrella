@@ -17,7 +17,7 @@
 		"@thi.ng/checks": "workspace:^",
 		"@thi.ng/dl-asset": "workspace:^",
 		"@thi.ng/expose": "workspace:^",
-		"@thi.ng/hdom": "workspace:^",
+		"@thi.ng/hdom": "2.0.0",
 		"@thi.ng/hiccup": "workspace:^",
 		"@thi.ng/hiccup-svg": "workspace:^",
 		"@thi.ng/interceptors": "workspace:^",
