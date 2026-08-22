@@ -15,14 +15,14 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^8.1.0"
 	},
 	"dependencies": {
 		"@thi.ng/color": "workspace:^",
 		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/geom-webgl": "workspace:^",
+		"@thi.ng/geom-webgl": "0.1.0",
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/webgl": "workspace:^"
 	},
