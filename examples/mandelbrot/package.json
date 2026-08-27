@@ -17,11 +17,11 @@
 		"@thi.ng/equiv": "workspace:^",
 		"@thi.ng/hdom-components": "workspace:^",
 		"@thi.ng/math": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/rstream-gestures": "workspace:^",
+		"@thi.ng/rstream": "0.1.0",
+		"@thi.ng/rstream-gestures": "0.0.1",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-hdom": "workspace:^"
+		"@thi.ng/transducers-hdom": "0.1.0"
 	},
 	"browser": {
 		"process": false,
