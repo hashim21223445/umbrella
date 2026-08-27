@@ -13,15 +13,15 @@
 	},
 	"devDependencies": {
 		"typescript": "^5.5.3",
-		"vite": "^5.4.12"
+		"vite": "^8.1.0"
 	},
 	"dependencies": {
-		"@thi.ng/api": "workspace:^",
+		"@thi.ng/api": "1.0.0",
 		"@thi.ng/canvas": "workspace:^",
 		"@thi.ng/dsp": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
 		"@thi.ng/rasterize": "workspace:^",
-		"@thi.ng/vectors": "workspace:^"
+		"@thi.ng/vectors": "0.0.1"
 	},
 	"browser": {
 		"process": false

@@ -18,13 +18,13 @@
 		"@thi.ng/hiccup-carbon-icons": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/msgpack": "workspace:^",
-		"@thi.ng/parse": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rdom-components": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/parse": "0.1.0",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rdom-components": "0.1.0",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-binary": "workspace:^"
+		"@thi.ng/transducers-binary": "0.1.0"
 	},
 	"browser": {
 		"process": false,
@@ -48,6 +48,6 @@
 	},
 	"devDependencies": {
 		"typescript": "^5.5.3",
-		"vite": "^5.4.12"
+		"vite": "^8.1.0"
 	}
 }
