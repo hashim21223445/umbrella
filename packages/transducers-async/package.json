@@ -37,11 +37,11 @@
 	},
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
-		"@thi.ng/buffers": "^0.1.9",
+		"@thi.ng/buffers": "^0.1.0",
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/compose": "^3.0.10",
-		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/transducers": "^9.0.12"
+		"@thi.ng/errors": "^0.0.1",
+		"@thi.ng/transducers": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
