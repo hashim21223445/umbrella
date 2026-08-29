@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/text-canvas": "workspace:^",
+		"@thi.ng/text-canvas": "0.1.2",
 		"@thi.ng/text-format": "workspace:^"
 	},
 	"browser": {
