@@ -38,7 +38,7 @@
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/dgraph": "^2.1.126",
-		"@thi.ng/dot": "^2.1.81"
+		"@thi.ng/dot": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
