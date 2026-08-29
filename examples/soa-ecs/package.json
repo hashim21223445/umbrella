@@ -17,10 +17,10 @@
 		"@thi.ng/hdom": "workspace:^",
 		"@thi.ng/hdom-components": "workspace:^",
 		"@thi.ng/math": "workspace:^",
-		"@thi.ng/matrices": "workspace:^",
+		"@thi.ng/matrices": "0.1.0",
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/vectors": "workspace:^",
-		"@thi.ng/webgl": "workspace:^"
+		"@thi.ng/webgl": "0.1.0"
 	},
 	"browser": {
 		"process": false,
