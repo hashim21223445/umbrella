@@ -47,12 +47,12 @@
 		"@thi.ng/compare": "^2.3.10",
 		"@thi.ng/compose": "^3.0.10",
 		"@thi.ng/defmulti": "^3.0.45",
-		"@thi.ng/errors": "^2.5.13",
+		"@thi.ng/errors": "^0.0.1",
 		"@thi.ng/math": "^5.11.5",
 		"@thi.ng/random": "^4.0.1",
 		"@thi.ng/strings": "^3.8.1",
-		"@thi.ng/transducers": "^9.0.12",
-		"@thi.ng/vectors": "^7.11.6"
+		"@thi.ng/transducers": "^0.1.0",
+		"@thi.ng/vectors": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
