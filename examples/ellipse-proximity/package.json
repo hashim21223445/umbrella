@@ -14,9 +14,9 @@
 	"dependencies": {
 		"@thi.ng/geom-closest-point": "workspace:^",
 		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rdom-canvas": "workspace:^",
+		"@thi.ng/rdom-canvas": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/rstream-gestures": "workspace:^",
+		"@thi.ng/rstream-gestures": "0.0.1",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
