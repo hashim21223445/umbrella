@@ -36,8 +36,8 @@
 		"tool:tangle": "../../node_modules/.bin/tangle src/**/*.ts"
 	},
 	"dependencies": {
-		"@thi.ng/rstream": "^8.5.9",
-		"@thi.ng/strings": "^3.8.1",
+		"@thi.ng/rstream": "^0.1.0",
+		"@thi.ng/strings": "^0.1.0",
 		"@thi.ng/transducers": "^9.0.12"
 	},
 	"devDependencies": {
