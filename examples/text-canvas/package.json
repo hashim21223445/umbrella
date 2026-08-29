@@ -16,9 +16,9 @@
 	},
 	"dependencies": {
 		"@thi.ng/dsp": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/matrices": "workspace:^",
-		"@thi.ng/text-canvas": "workspace:^",
+		"@thi.ng/text-canvas": "0.1.2",
 		"@thi.ng/text-format": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
@@ -39,7 +39,7 @@
 		"screenshot": "examples/text-canvas.png"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^5.4.12"
 	}
