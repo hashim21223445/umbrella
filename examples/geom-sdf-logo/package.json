@@ -17,8 +17,8 @@
 	},
 	"dependencies": {
 		"@thi.ng/color-palettes": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/geom-sdf": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/geom-sdf": "0.1.0",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
