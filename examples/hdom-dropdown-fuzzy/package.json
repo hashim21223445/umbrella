@@ -16,8 +16,8 @@
 		"@thi.ng/atom": "workspace:^",
 		"@thi.ng/checks": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hdom-components": "workspace:^",
-		"@thi.ng/interceptors": "workspace:^",
+		"@thi.ng/hdom-components": "1.0.0",
+		"@thi.ng/interceptors": "1.0.0",
 		"@thi.ng/paths": "workspace:^",
 		"@thi.ng/transducers": "workspace:^"
 	},
