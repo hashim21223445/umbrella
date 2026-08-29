@@ -16,8 +16,8 @@
 	},
 	"dependencies": {
 		"@thi.ng/canvas": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/hiccup-canvas": "workspace:^"
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/hiccup-canvas": "1.0.0"
 	},
 	"browser": {
 		"process": false,
