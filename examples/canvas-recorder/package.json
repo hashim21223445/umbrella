@@ -18,11 +18,11 @@
 	"dependencies": {
 		"@thi.ng/canvas": "workspace:^",
 		"@thi.ng/dl-asset": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/hiccup-canvas": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/hiccup-canvas": "1.0.0",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/random": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
