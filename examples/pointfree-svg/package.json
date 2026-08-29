@@ -14,7 +14,7 @@
 		"@thi.ng/hiccup": "workspace:^",
 		"@thi.ng/hiccup-svg": "workspace:^",
 		"@thi.ng/pointfree": "workspace:^",
-		"@thi.ng/pointfree-lang": "workspace:^"
+		"@thi.ng/pointfree-lang": "0.1.0"
 	},
 	"devDependencies": {
 		"typescript": "^5.5.3"
