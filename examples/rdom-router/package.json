@@ -25,8 +25,8 @@
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/logger": "workspace:^",
 		"@thi.ng/random": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/router": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/router": "0.1.0",
 		"@thi.ng/rstream": "workspace:^"
 	},
 	"browser": {
