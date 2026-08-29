@@ -19,10 +19,10 @@
 		"@thi.ng/pixel": "workspace:^",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/shader-ast": "workspace:^",
-		"@thi.ng/shader-ast-js": "workspace:^",
+		"@thi.ng/shader-ast-js": "0.1.0",
 		"@thi.ng/shader-ast-stdlib": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-stats": "workspace:^"
+		"@thi.ng/transducers-stats": "0.0.1"
 	},
 	"browser": {
 		"process": false,
