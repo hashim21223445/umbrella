@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/csp": "^3.2.7",
-		"@thi.ng/rstream": "^8.5.9"
+		"@thi.ng/rstream": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
