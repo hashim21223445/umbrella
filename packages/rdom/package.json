@@ -40,10 +40,10 @@
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/hiccup": "^5.2.7",
+		"@thi.ng/hiccup": "^0.1.2",
 		"@thi.ng/paths": "^5.1.87",
 		"@thi.ng/prefixes": "^2.3.24",
-		"@thi.ng/rstream": "^8.5.9",
+		"@thi.ng/rstream": "^0.1.0",
 		"@thi.ng/strings": "^3.8.1"
 	},
 	"devDependencies": {
