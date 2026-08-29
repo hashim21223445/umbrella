@@ -40,9 +40,9 @@
 	},
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
-		"@thi.ng/binary": "^3.4.30",
+		"@thi.ng/binary": "^0.0.1",
 		"@thi.ng/checks": "^3.6.9",
-		"@thi.ng/errors": "^2.5.13"
+		"@thi.ng/errors": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
