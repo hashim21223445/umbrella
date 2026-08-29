@@ -15,13 +15,13 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^8.1.0"
 	},
 	"dependencies": {
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/geom-sdf": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/geom-sdf": "0.1.0",
 		"@thi.ng/vectors": "workspace:^"
 	},
 	"browser": {
