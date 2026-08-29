@@ -14,9 +14,9 @@
 	"dependencies": {
 		"@thi.ng/atom": "workspace:^",
 		"@thi.ng/equiv": "workspace:^",
-		"@thi.ng/hiccup-svg": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rstream": "workspace:^",
+		"@thi.ng/hiccup-svg": "0.1.0",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rstream": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
