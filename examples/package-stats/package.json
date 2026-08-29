@@ -14,10 +14,10 @@
 		"typescript": "^5.5.3"
 	},
 	"dependencies": {
-		"@thi.ng/dgraph": "workspace:^",
+		"@thi.ng/dgraph": "0.0.2",
 		"@thi.ng/file-io": "workspace:^",
-		"@thi.ng/hiccup": "workspace:^",
-		"@thi.ng/hiccup-svg": "workspace:^",
+		"@thi.ng/hiccup": "0.1.2",
+		"@thi.ng/hiccup-svg": "0.1.0",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/paths": "workspace:^",
 		"@thi.ng/strings": "workspace:^",
