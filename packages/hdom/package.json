@@ -44,9 +44,9 @@
 		"@thi.ng/diff": "^5.1.74",
 		"@thi.ng/equiv": "^2.1.63",
 		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/hiccup": "^5.2.7",
+		"@thi.ng/hiccup": "^0.1.2",
 		"@thi.ng/logger": "^3.0.17",
-		"@thi.ng/prefixes": "^2.3.24"
+		"@thi.ng/prefixes": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
