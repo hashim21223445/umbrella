@@ -22,11 +22,11 @@
 		"vite": "^8.1.0"
 	},
 	"dependencies": {
-		"@thi.ng/api": "workspace:^",
+		"@thi.ng/api": "1.0.0",
 		"@thi.ng/date": "workspace:^",
 		"@thi.ng/wasm-api": "workspace:^",
 		"@thi.ng/wasm-api-dom": "workspace:^",
-		"@thi.ng/wasm-api-schedule": "workspace:^"
+		"@thi.ng/wasm-api-schedule": "0.2.0"
 	},
 	"browser": {
 		"process": false
