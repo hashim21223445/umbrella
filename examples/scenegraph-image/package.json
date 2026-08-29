@@ -15,10 +15,10 @@
 		"@thi.ng/dsp": "workspace:^",
 		"@thi.ng/geom": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hdom-canvas": "workspace:^",
+		"@thi.ng/hdom-canvas": "0.1.0",
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/scenegraph": "workspace:^",
+		"@thi.ng/scenegraph": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
