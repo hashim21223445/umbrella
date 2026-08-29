@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
-		"@thi.ng/errors": "^2.5.13",
+		"@thi.ng/errors": "^0.0.1",
 		"tslib": "^2.6.3"
 	},
 	"devDependencies": {
