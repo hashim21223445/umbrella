@@ -15,7 +15,7 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^5.4.12"
 	},
@@ -26,7 +26,7 @@
 		"@thi.ng/errors": "workspace:^",
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/webgl": "workspace:^"
+		"@thi.ng/webgl": "0.1.0"
 	},
 	"browser": {
 		"process": false
