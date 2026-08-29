@@ -12,12 +12,12 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/api": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/api": "1.0.0",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hdom-canvas": "workspace:^",
+		"@thi.ng/hdom-canvas": "0.1.0",
 		"@thi.ng/math": "workspace:^",
-		"@thi.ng/scenegraph": "workspace:^",
+		"@thi.ng/scenegraph": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
