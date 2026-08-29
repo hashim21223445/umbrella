@@ -42,10 +42,10 @@
 		"@thi.ng/arrays": "^2.9.13",
 		"@thi.ng/binary": "^3.4.30",
 		"@thi.ng/bitfield": "^2.3.47",
-		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/morton": "^3.1.92",
+		"@thi.ng/errors": "^0.0.1",
+		"@thi.ng/morton": "^0.0.1",
 		"@thi.ng/random": "^4.0.1",
-		"@thi.ng/transducers": "^9.0.12"
+		"@thi.ng/transducers": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
