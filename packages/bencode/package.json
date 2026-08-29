@@ -38,11 +38,11 @@
 	"dependencies": {
 		"@thi.ng/arrays": "^2.9.13",
 		"@thi.ng/checks": "^3.6.9",
-		"@thi.ng/defmulti": "^3.0.45",
-		"@thi.ng/errors": "^2.5.13",
+		"@thi.ng/defmulti": "^0.0.1",
+		"@thi.ng/errors": "^0.0.1",
 		"@thi.ng/strings": "^3.8.1",
 		"@thi.ng/transducers": "^9.0.12",
-		"@thi.ng/transducers-binary": "^2.1.127"
+		"@thi.ng/transducers-binary": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
