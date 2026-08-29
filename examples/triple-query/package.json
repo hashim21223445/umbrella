@@ -18,10 +18,10 @@
 		"@thi.ng/compare": "workspace:^",
 		"@thi.ng/expose": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hdom-components": "workspace:^",
-		"@thi.ng/interceptors": "workspace:^",
+		"@thi.ng/hdom-components": "1.0.0",
+		"@thi.ng/interceptors": "1.0.0",
 		"@thi.ng/paths": "workspace:^",
-		"@thi.ng/rstream-query": "workspace:^",
+		"@thi.ng/rstream-query": "0.0.1",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
