@@ -23,7 +23,7 @@
 		"@thi.ng/api": "workspace:^",
 		"@thi.ng/hiccup-css": "workspace:^",
 		"@thi.ng/ramp": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
 		"@thi.ng/rstream": "workspace:^"
 	},
 	"browser": {
