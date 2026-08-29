@@ -18,13 +18,13 @@
 	"dependencies": {
 		"@thi.ng/binary": "workspace:^",
 		"@thi.ng/color": "workspace:^",
-		"@thi.ng/colored-noise": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/colored-noise": "0.1.0",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/malloc": "workspace:^",
 		"@thi.ng/matrices": "workspace:^",
-		"@thi.ng/rdom-canvas": "workspace:^",
+		"@thi.ng/rdom-canvas": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/simd": "workspace:^",
+		"@thi.ng/simd": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
