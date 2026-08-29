@@ -37,7 +37,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
-		"@thi.ng/transducers": "^9.0.12"
+		"@thi.ng/transducers": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
