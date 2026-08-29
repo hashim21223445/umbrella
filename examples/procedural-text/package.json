@@ -23,11 +23,11 @@
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/proctext": "workspace:^",
 		"@thi.ng/random": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rdom-components": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
+		"@thi.ng/rdom-components": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-binary": "workspace:^"
+		"@thi.ng/transducers-binary": "0.1.0"
 	},
 	"browser": {
 		"process": false
