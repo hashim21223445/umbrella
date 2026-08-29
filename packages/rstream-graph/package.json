@@ -38,11 +38,11 @@
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/atom": "^5.3.7",
-		"@thi.ng/checks": "^3.6.9",
+		"@thi.ng/checks": "^1.0.0",
 		"@thi.ng/errors": "^2.5.13",
 		"@thi.ng/paths": "^5.1.87",
-		"@thi.ng/resolve-map": "^7.1.80",
-		"@thi.ng/rstream": "^8.5.9",
+		"@thi.ng/resolve-map": "^0.1.0",
+		"@thi.ng/rstream": "^0.1.0",
 		"@thi.ng/transducers": "^9.0.12"
 	},
 	"devDependencies": {
