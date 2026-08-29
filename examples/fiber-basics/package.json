@@ -18,14 +18,14 @@
 	"dependencies": {
 		"@thi.ng/color": "workspace:^",
 		"@thi.ng/dl-asset": "workspace:^",
-		"@thi.ng/dsp": "workspace:^",
+		"@thi.ng/dsp": "0.0.1",
 		"@thi.ng/fibers": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/hiccup-canvas": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/random": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
