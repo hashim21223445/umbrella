@@ -18,8 +18,8 @@
 	"dependencies": {
 		"@thi.ng/arrays": "workspace:^",
 		"@thi.ng/color": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/k-means": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/k-means": "0.1.0",
 		"@thi.ng/random": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
