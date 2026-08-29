@@ -17,9 +17,9 @@
 	},
 	"dependencies": {
 		"@thi.ng/canvas": "workspace:^",
-		"@thi.ng/color-palettes": "workspace:^",
+		"@thi.ng/color-palettes": "0.1.0",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/pixel-dither": "workspace:^",
+		"@thi.ng/pixel-dither": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
