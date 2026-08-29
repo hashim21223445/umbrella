@@ -21,12 +21,12 @@
 		"@thi.ng/mime": "workspace:^",
 		"@thi.ng/random": "workspace:^",
 		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rdom-components": "workspace:^",
+		"@thi.ng/rdom-components": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/rstream-gestures": "workspace:^",
+		"@thi.ng/rstream-gestures": "0.0.1",
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/webgl": "workspace:^"
+		"@thi.ng/webgl": "0.1.0"
 	},
 	"browser": {
 		"process": false
