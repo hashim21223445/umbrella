@@ -38,7 +38,7 @@
 	"dependencies": {
 		"@thi.ng/api": "^8.11.7",
 		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/pixel": "^7.2.1"
+		"@thi.ng/pixel": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
