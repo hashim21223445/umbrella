@@ -41,7 +41,7 @@
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/math": "^5.11.5",
 		"@thi.ng/transducers": "^9.0.12",
-		"@thi.ng/transducers-stats": "^2.1.125"
+		"@thi.ng/transducers-stats": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
