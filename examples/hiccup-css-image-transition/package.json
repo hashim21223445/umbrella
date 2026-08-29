@@ -18,8 +18,8 @@
 	"dependencies": {
 		"@thi.ng/grid-iterators": "workspace:^",
 		"@thi.ng/hiccup": "workspace:^",
-		"@thi.ng/hiccup-css": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
+		"@thi.ng/hiccup-css": "0.1.0",
+		"@thi.ng/rdom": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
