@@ -40,10 +40,10 @@
 		"tool:tangle": "../../node_modules/.bin/tangle src/**/*.ts"
 	},
 	"dependencies": {
-		"@thi.ng/api": "^8.11.7",
+		"@thi.ng/api": "^1.0.0",
 		"@thi.ng/checks": "^3.6.9",
 		"@thi.ng/math": "^5.11.5",
-		"@thi.ng/rstream": "^8.5.9",
+		"@thi.ng/rstream": "^0.1.0",
 		"@thi.ng/transducers": "^9.0.12"
 	},
 	"devDependencies": {
