@@ -15,21 +15,21 @@
 		"preview": "vite preview --host --open"
 	},
 	"devDependencies": {
-		"@thi.ng/meta-css": "workspace:^",
+		"@thi.ng/meta-css": "0.1.0",
 		"typescript": "^5.5.3",
 		"vite": "^8.1.0"
 	},
 	"dependencies": {
-		"@thi.ng/api": "workspace:^",
+		"@thi.ng/api": "1.0.0",
 		"@thi.ng/atom": "workspace:^",
 		"@thi.ng/dgraph-dot": "workspace:^",
 		"@thi.ng/hiccup-carbon-icons": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/logger": "workspace:^",
 		"@thi.ng/paths": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
+		"@thi.ng/rdom": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/system": "workspace:^",
+		"@thi.ng/system": "0.1.0",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
