@@ -16,7 +16,7 @@
 		"@thi.ng/geom": "workspace:^",
 		"@thi.ng/geom-fuzz": "workspace:^",
 		"@thi.ng/hiccup-canvas": "workspace:^",
-		"@thi.ng/rstream": "workspace:^"
+		"@thi.ng/rstream": "0.1.0"
 	},
 	"browser": {
 		"process": false,
