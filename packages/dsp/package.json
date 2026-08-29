@@ -42,7 +42,7 @@
 		"@thi.ng/errors": "^2.5.13",
 		"@thi.ng/math": "^5.11.5",
 		"@thi.ng/random": "^4.0.1",
-		"@thi.ng/transducers": "^9.0.12"
+		"@thi.ng/transducers": "^0.1.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
