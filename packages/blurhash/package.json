@@ -40,7 +40,7 @@
 		"@thi.ng/base-n": "^2.7.19",
 		"@thi.ng/canvas": "^0.4.0",
 		"@thi.ng/errors": "^2.5.13",
-		"@thi.ng/math": "^5.11.5"
+		"@thi.ng/math": "^0.0.1"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
