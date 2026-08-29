@@ -14,13 +14,13 @@
 	"dependencies": {
 		"@thi.ng/adjacency": "workspace:^",
 		"@thi.ng/bench": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/geom-accel": "workspace:^",
 		"@thi.ng/geom-voronoi": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/hdom-canvas": "workspace:^",
+		"@thi.ng/hdom-canvas": "0.1.0",
 		"@thi.ng/math": "workspace:^",
-		"@thi.ng/poisson": "workspace:^",
+		"@thi.ng/poisson": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
