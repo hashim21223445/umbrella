@@ -12,14 +12,14 @@
 		"preview": "vite preview --host --open"
 	},
 	"dependencies": {
-		"@thi.ng/gp": "workspace:^",
+		"@thi.ng/gp": "0.1.0",
 		"@thi.ng/logger": "workspace:^",
 		"@thi.ng/random": "workspace:^",
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/shader-ast-optimize": "workspace:^",
 		"@thi.ng/shader-ast-stdlib": "workspace:^",
 		"@thi.ng/webgl": "workspace:^",
-		"@thi.ng/webgl-shadertoy": "workspace:^"
+		"@thi.ng/webgl-shadertoy": "0.1.0"
 	},
 	"browser": {
 		"process": false,
