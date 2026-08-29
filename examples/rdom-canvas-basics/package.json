@@ -18,11 +18,11 @@
 	"dependencies": {
 		"@thi.ng/compose": "workspace:^",
 		"@thi.ng/dsp": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/rdom-canvas": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
+		"@thi.ng/rdom-canvas": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/vectors": "workspace:^"
+		"@thi.ng/vectors": "0.0.1"
 	},
 	"browser": {
 		"process": false
