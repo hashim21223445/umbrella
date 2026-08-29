@@ -7,7 +7,7 @@
 		"tools"
 	],
 	"devDependencies": {
-		"@microsoft/api-documenter": "^7.25.4",
+		"@microsoft/api-documenter": "^7.26.35",
 		"@microsoft/api-extractor": "^7.47.0",
 		"all-contributors-cli": "^6.26.1",
 		"bun-types": "^1.1.18",
