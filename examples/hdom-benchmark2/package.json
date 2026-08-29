@@ -13,9 +13,9 @@
 	},
 	"dependencies": {
 		"@thi.ng/binary": "workspace:^",
-		"@thi.ng/hdom": "workspace:^",
+		"@thi.ng/hdom": "2.0.0",
 		"@thi.ng/hdom-components": "workspace:^",
-		"@thi.ng/hiccup-css": "workspace:^",
+		"@thi.ng/hiccup-css": "0.1.0",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^"
 	},
