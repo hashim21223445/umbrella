@@ -16,12 +16,12 @@
 		"vite": "^8.1.0"
 	},
 	"dependencies": {
-		"@thi.ng/colored-noise": "workspace:^",
+		"@thi.ng/colored-noise": "0.1.0",
 		"@thi.ng/logger": "workspace:^",
 		"@thi.ng/shader-ast": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/vectors": "workspace:^",
-		"@thi.ng/webgl": "workspace:^"
+		"@thi.ng/vectors": "0.0.1",
+		"@thi.ng/webgl": "0.1.0"
 	},
 	"browser": {
 		"process": false
