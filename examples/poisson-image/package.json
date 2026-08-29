@@ -23,7 +23,7 @@
 		"@thi.ng/bench": "workspace:^",
 		"@thi.ng/geom-accel": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/poisson": "workspace:^"
+		"@thi.ng/poisson": "0.1.0"
 	},
 	"browser": {
 		"process": false
