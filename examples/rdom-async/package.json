@@ -22,7 +22,7 @@
 	"dependencies": {
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/transducers-async": "workspace:^"
+		"@thi.ng/transducers-async": "0.1.0"
 	},
 	"browser": {
 		"process": false
