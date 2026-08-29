@@ -14,7 +14,7 @@
 	"dependencies": {
 		"@thi.ng/color": "workspace:^",
 		"@thi.ng/dl-asset": "workspace:^",
-		"@thi.ng/geom": "workspace:^",
+		"@thi.ng/geom": "0.0.1",
 		"@thi.ng/hdom-canvas": "workspace:^",
 		"@thi.ng/hdom-components": "workspace:^",
 		"@thi.ng/hiccup": "workspace:^",
@@ -23,7 +23,7 @@
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
-		"@thi.ng/transducers-hdom": "workspace:^",
+		"@thi.ng/transducers-hdom": "0.1.0",
 		"@thi.ng/vectors": "workspace:^"
 	},
 	"browser": {
